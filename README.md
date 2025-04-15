@@ -2,6 +2,8 @@
 
 A simple web application that allows users to convert between different currencies using real-time exchange rates.
 
+> My hobby project for learning web development
+
 ## Features
 
 - Real-time currency conversion
